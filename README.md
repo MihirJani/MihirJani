@@ -25,4 +25,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mihirjani&show_icons=true&locale=en&layout=compact" alt="mihirjani" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mihirjani&" alt="mihirjani" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mihirjani&" alt="mihirjani" /></p> -->
