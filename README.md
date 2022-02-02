@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mihir Jani</h1>
-<h3 align="center">A passionate php developer from India</h3>
+<h3 align="center">A passionate ASE from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mihirjani&label=Profile%20views&color=0e75b6&style=flat" alt="mihirjani" /> </p>
 
@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/mihir_jani7" target="blank"><img src="https://img.shields.io/twitter/follow/mihir_jani7?logo=twitter&style=for-the-badge" alt="mihir_jani7" /></a> </p>
 
-- 🔭 I’m currently working on [Naitik Enterprise](http://naitikenterprise.in/)
+- 🔭 I’m currently working on [Garden Inside](https://gardeninside.in/)
 
-- 🌱 I’m currently learning **JS, Python**
+<!-- - 🌱 I’m currently learning **JS, Python** -->
 
-- 💬 Ask me about **Php, Html, Css,**
+<!-- - 💬 Ask me about **Frontend, DevOps,** -->
 
 - 📫 How to reach me **janimihir007@gmail.com**
 
